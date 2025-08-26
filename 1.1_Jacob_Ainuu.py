@@ -15,6 +15,15 @@ Describtion: fitness tracker
 
 #---------Libaries----------------
 
+User_name = str(input("Enter your name"))
+age = int(input("Enter your age"))
+Workout_result = int(input("Enter your press up result"))
+
+      
+
+
+
+
 
 
 
