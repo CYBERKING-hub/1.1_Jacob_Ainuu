@@ -18,12 +18,18 @@ Describtion: fitness tracker
 User_name = str(input("Enter your name"))
 age = int(input("Enter your age"))
 
-#list to store pull up counts
-pull_up = [10, 20, 50, 100, 115]
+push_up_result=[]
+
+for i in range(5):
+        result = int(input(f"Enter push up result"))
+        push_up_result.append(result)
+        
+print("Push-up results", push_up_result)
 
 
 
-      
+
+
 
 
 
